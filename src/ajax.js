@@ -1,4 +1,5 @@
 define( [
+	"./ajax",
 	"./core",
 	"./var/document",
 	"./var/rnotwhite",
